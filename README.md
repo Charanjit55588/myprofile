@@ -1,9 +1,7 @@
 # myprofile
-my_profile 
-
 Description: Created a website that holds my resume. It allow us to download a worddoc file from the website.
-Also, you can find links for my LinkedIn and Github.
-
+Change2	Also, you can find links for my LinkedIn and Github.
+Click on www.csingh.ca	
 Purpose: You can browse my resume by visiting the site www.charanjitsingh.ca
 
 TechStack:
